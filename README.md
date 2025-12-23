@@ -3,7 +3,7 @@
 This repository contains the source code for the **EuroPi documentation website**,
 built with **Astro** and **Starlight**.
 
-🔗 **Live website:** https://s0ca.github.io/europi-docs/
+🔗 **Live website:** https://s0ca.github.io/europi-contrib-docs/
 
 ---
 
