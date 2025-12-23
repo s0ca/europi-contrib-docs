@@ -18,7 +18,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/Allen-Synthesis/EuroPi',
+          href: 'https://github.com/s0ca/europi-contrib-docs',
         },
       ],
       sidebar: [
