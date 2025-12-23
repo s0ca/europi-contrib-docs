@@ -13,3 +13,6 @@ pnpm-debug.log*
 # Env
 .env
 .env.*
+
+scripts/upstream/
+scripts/src/
