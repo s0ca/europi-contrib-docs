@@ -1,6 +1,8 @@
 ---
-title: gates_and_triggers.py
+title: Code — gates_and_triggers
 ---
+
+# gates_and_triggers.py
 
 ```python
 #!/usr/bin/env python3
@@ -210,5 +212,4 @@ class GatesAndTriggers(EuroPiScript):
 
 if __name__=="__main__":
     GatesAndTriggers().main()
-
 ```

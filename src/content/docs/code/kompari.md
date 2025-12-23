@@ -1,6 +1,8 @@
 ---
-title: kompari.py
+title: Code — kompari
 ---
+
+# kompari.py
 
 ```python
 #!/usr/bin/env python3
@@ -92,5 +94,4 @@ class Kompari(EuroPiScript):
 
 if __name__ == "__main__":
     Kompari().main()
-
 ```

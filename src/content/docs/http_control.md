@@ -1,5 +1,5 @@
 ---
-title: HTTP Interface
+title: Http Control
 ---
 
 # HTTP Interface

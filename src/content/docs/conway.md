@@ -1,5 +1,5 @@
 ---
-title: John Conway's Game of LiFO
+title: Conway
 ---
 
 # John Conway's Game of LiFO

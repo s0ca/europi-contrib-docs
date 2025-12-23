@@ -1,6 +1,8 @@
 ---
-title: noddy_holder.py
+title: Code — noddy_holder
 ---
+
+# noddy_holder.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -152,5 +154,4 @@ class NoddyHolder(EuroPiScript):
 
 if __name__ == "__main__":
     NoddyHolder().main()
-
 ```

@@ -1,6 +1,8 @@
 ---
-title: bernoulli_gates.py
+title: Code — bernoulli_gates
 ---
+
+# bernoulli_gates.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -237,5 +239,4 @@ class BernoulliGates(EuroPiScript):
 if __name__ == "__main__":
     bernoulli_gates = BernoulliGates()
     bernoulli_gates.main()
-
 ```

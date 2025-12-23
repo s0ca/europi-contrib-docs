@@ -1,6 +1,8 @@
 ---
-title: poly_square.py
+title: Code — poly_square
 ---
+
+# poly_square.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -366,5 +368,4 @@ class PolySquare(EuroPiScript):
 # Main script execution
 if __name__ == '__main__':
     PolySquare().main()
-
 ```

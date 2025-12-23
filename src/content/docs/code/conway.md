@@ -1,6 +1,8 @@
 ---
-title: conway.py
+title: Code — conway
 ---
+
+# conway.py
 
 ```python
 #!/usr/bin/env python3
@@ -431,5 +433,4 @@ class Conway(EuroPiScript):
 
 if __name__ == "__main__":
     Conway().main()
-
 ```

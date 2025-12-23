@@ -1,6 +1,8 @@
 ---
-title: binary_counter.py
+title: Code — binary_counter
 ---
+
+# binary_counter.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -145,5 +147,4 @@ k = {self.k}
 
 if __name__ == "__main__":
     BinaryCounter().main()
-
 ```

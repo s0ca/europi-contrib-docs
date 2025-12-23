@@ -1,6 +1,8 @@
 ---
-title: hamlet.py
+title: Code — hamlet
 ---
+
+# hamlet.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -374,5 +376,4 @@ if __name__ == '__main__':
     turn_off_all_cvs()
     hm = Hamlet()
     hm.main()
-
 ```

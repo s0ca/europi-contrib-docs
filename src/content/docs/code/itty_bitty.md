@@ -1,6 +1,8 @@
 ---
-title: itty_bitty.py
+title: Code — itty_bitty
 ---
+
+# itty_bitty.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -222,5 +224,4 @@ class IttyBitty(EuroPiScript):
 
 if __name__ == "__main__":
     IttyBitty().main()
-
 ```

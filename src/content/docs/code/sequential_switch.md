@@ -1,6 +1,8 @@
 ---
-title: sequential_switch.py
+title: Code — sequential_switch
 ---
+
+# sequential_switch.py
 
 ```python
 # Copyright 2023 Allen Synthesis
@@ -237,5 +239,4 @@ class SequentialSwitch(EuroPiScript):
 
 if __name__ == "__main__":
     SequentialSwitch().main()
-
 ```

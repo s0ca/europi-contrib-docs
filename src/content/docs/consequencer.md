@@ -1,5 +1,5 @@
 ---
-title: EuroPi Consequencer - A 6-channel open source sequencer and random source power house!
+title: Consequencer
 ---
 
 # EuroPi Consequencer - A 6-channel open source sequencer and random source power house!

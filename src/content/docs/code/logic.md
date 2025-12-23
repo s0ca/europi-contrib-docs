@@ -1,6 +1,8 @@
 ---
-title: logic.py
+title: Code — logic
 ---
+
+# logic.py
 
 ```python
 # Copyright 2023 Allen Synthesis
@@ -128,5 +130,4 @@ class Logic(EuroPiScript):
 
 if __name__ == "__main__":
     Logic().main()
-
 ```

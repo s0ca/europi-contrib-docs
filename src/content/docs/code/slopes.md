@@ -1,6 +1,8 @@
 ---
-title: slopes.py
+title: Code — slopes
 ---
+
+# slopes.py
 
 ```python
 #!/usr/bin/env python3
@@ -115,5 +117,4 @@ class Slopes(EuroPiScript):
 
 if __name__ == "__main__":
     Slopes().main()
-
 ```

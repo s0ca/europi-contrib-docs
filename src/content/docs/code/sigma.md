@@ -1,6 +1,8 @@
 ---
-title: sigma.py
+title: Code — sigma
 ---
+
+# sigma.py
 
 ```python
 #!/usr/bin/env python3
@@ -381,5 +383,4 @@ CV: {self.AIN_ROUTE_NAMES[self.ain_route]}""")
 
 if __name__ == "__main__":
     Sigma().main()
-
 ```

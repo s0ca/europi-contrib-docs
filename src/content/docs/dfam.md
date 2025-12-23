@@ -1,5 +1,5 @@
 ---
-title: DFAM Controller
+title: Dfam
 ---
 
 # DFAM Controller
@@ -30,7 +30,7 @@ fast-reset button and reset input.
 Connect your clock source or square LFO to `din` and connect `cv1` to DFAM's `ADV/CLOCK` input.
 
 Optionally, connect a reset source to `ain` to automatically reset EuroPi and DFAM (e.g. a
-clock-stop signal from [`Pam's Workout`](pams)).
+clock-stop signal from [`Pam's Workout`](/software/contrib/pams.md)).
 
 ## Preparing DFAM
 

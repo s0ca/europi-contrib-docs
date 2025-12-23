@@ -1,5 +1,5 @@
 ---
-title: Open Sound Control (OSC) Interface
+title: Osc Control
 ---
 
 # Open Sound Control (OSC) Interface

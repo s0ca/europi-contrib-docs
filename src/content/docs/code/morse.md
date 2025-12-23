@@ -1,6 +1,8 @@
 ---
-title: morse.py
+title: Code — morse
 ---
+
+# morse.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -268,5 +270,4 @@ class Morse(EuroPiScript):
 
 if __name__ == "__main__":
     Morse().main()
-
 ```

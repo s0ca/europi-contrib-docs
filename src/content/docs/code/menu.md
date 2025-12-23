@@ -1,6 +1,8 @@
 ---
-title: menu.py
+title: Code — menu
 ---
+
+# menu.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -120,5 +122,4 @@ if (
 
 if __name__ == "__main__":
     BootloaderMenu(EUROPI_SCRIPTS).main()
-
 ```

@@ -1,5 +1,5 @@
 ---
-title: Master Clock and Clock Divider
+title: Master Clock
 ---
 
 # Master Clock and Clock Divider

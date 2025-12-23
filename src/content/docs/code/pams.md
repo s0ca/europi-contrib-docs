@@ -1,6 +1,8 @@
 ---
-title: pams.py
+title: Code — pams
 ---
+
+# pams.py
 
 ```python
 #!/usr/bin/env python3
@@ -1582,5 +1584,4 @@ class PamsWorkout2(EuroPiScript):
 
 if __name__=="__main__":
     PamsWorkout2().main()
-
 ```

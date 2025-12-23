@@ -1,6 +1,8 @@
 ---
-title: euclid.py
+title: Code — euclid
 ---
+
+# euclid.py
 
 ```python
 #!/usr/bin/env python3
@@ -358,5 +360,4 @@ class EuclideanRhythms(EuroPiScript):
 
 if __name__=="__main__":
     EuclideanRhythms().main()
-
 ```

@@ -1,6 +1,8 @@
 ---
-title: clock_mod.py
+title: Code — clock_mod
 ---
+
+# clock_mod.py
 
 ```python
 #!/usr/bin/env python3
@@ -344,5 +346,4 @@ class ClockModifier(EuroPiScript):
 
 if __name__=="__main__":
     ClockModifier().main()
-
 ```

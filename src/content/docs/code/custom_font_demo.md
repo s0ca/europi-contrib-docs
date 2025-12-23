@@ -1,6 +1,8 @@
 ---
-title: custom_font_demo.py
+title: Code — custom_font_demo
 ---
+
+# custom_font_demo.py
 
 ```python
 # Copyright 2023 Allen Synthesis
@@ -95,5 +97,4 @@ class CustomFontDemo(EuroPiScript):
 if __name__ == "__main__":
     oled.contrast(0)  # dim the display
     CustomFontDemo().main()
-
 ```

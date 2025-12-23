@@ -1,5 +1,5 @@
 ---
-title: DCSN-2
+title: Dscn2
 ---
 
 # DCSN-2

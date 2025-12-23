@@ -1,6 +1,8 @@
 ---
-title: bouncing_pixels.py
+title: Code — bouncing_pixels
 ---
+
+# bouncing_pixels.py
 
 ```python
 # Copyright 2025 Allen Synthesis
@@ -694,5 +696,4 @@ class BouncingPixels(EuroPiScript):
 
 if __name__ == "__main__":
     BouncingPixels().main()
-
 ```

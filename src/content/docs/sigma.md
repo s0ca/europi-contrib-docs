@@ -1,5 +1,5 @@
 ---
-title: Sigma -- Gaussian CV Generator
+title: Sigma
 ---
 
 # Sigma -- Gaussian CV Generator

@@ -1,5 +1,5 @@
 ---
-title: Bezier Curves
+title: Bezier
 ---
 
 # Bezier Curves

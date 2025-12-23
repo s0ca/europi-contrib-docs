@@ -1,6 +1,8 @@
 ---
-title: strange_attractor.py
+title: Code — strange_attractor
 ---
+
+# strange_attractor.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -449,5 +451,4 @@ class StrangeAttractor(EuroPiScript):
 
 if __name__ == "__main__":
     StrangeAttractor().main()
-
 ```

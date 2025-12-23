@@ -1,6 +1,8 @@
 ---
-title: bit_garden.py
+title: Code — bit_garden
 ---
+
+# bit_garden.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -423,5 +425,4 @@ class BitGarden(EuroPiScript):
 
 if __name__ == "__main__":
     BitGarden().main()
-
 ```

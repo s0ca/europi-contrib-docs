@@ -1,5 +1,5 @@
 ---
-title: Arpeggiator
+title: Arp
 ---
 
 # Arpeggiator

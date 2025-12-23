@@ -1,6 +1,8 @@
 ---
-title: lutra.py
+title: Code — lutra
 ---
+
+# lutra.py
 
 ```python
 #!/usr/bin/env python3
@@ -364,5 +366,4 @@ class Lutra(EuroPiScript):
 
 if __name__ == "__main__":
     Lutra().main()
-
 ```

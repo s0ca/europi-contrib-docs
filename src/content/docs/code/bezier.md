@@ -1,6 +1,8 @@
 ---
-title: bezier.py
+title: Code — bezier
 ---
+
+# bezier.py
 
 ```python
 #!/usr/bin/env python3
@@ -535,5 +537,4 @@ class Bezier(EuroPiScript):
 
 if __name__ == "__main__":
     Bezier().main()
-
 ```

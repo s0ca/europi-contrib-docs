@@ -1,5 +1,5 @@
 ---
-title: Strange Attractor.
+title: Strange Attractor
 ---
 
 # Strange Attractor.

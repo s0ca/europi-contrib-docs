@@ -1,6 +1,8 @@
 ---
-title: daily_random.py
+title: Code — daily_random
 ---
+
+# daily_random.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -160,5 +162,4 @@ class DailyRandom(EuroPiScript):
 
 if __name__ == "__main__":
     DailyRandom().main()
-
 ```

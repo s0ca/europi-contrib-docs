@@ -1,6 +1,8 @@
 ---
-title: scope.py
+title: Code — scope
 ---
+
+# scope.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -149,5 +151,4 @@ class Scope(EuroPiScript):
 
 if __name__ == "__main__":
     Scope().main()
-
 ```

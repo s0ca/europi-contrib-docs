@@ -1,5 +1,5 @@
 ---
-title: Bit Garden - pseudo-random deterministic repeated triggers
+title: Bit Garden
 ---
 
 # Bit Garden - pseudo-random deterministic repeated triggers

@@ -1,6 +1,8 @@
 ---
-title: harmonic_lfos.py
+title: Code — harmonic_lfos
 ---
+
+# harmonic_lfos.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -293,5 +295,4 @@ class HarmonicLFOs(EuroPiScript):
 
 if __name__ == "__main__":
     HarmonicLFOs().main()
-
 ```

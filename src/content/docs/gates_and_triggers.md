@@ -1,5 +1,5 @@
 ---
-title: Gates and Triggers (G&T)
+title: Gates And Triggers
 ---
 
 # Gates and Triggers (G&T)

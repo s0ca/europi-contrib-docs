@@ -1,6 +1,8 @@
 ---
-title: knob_playground.py
+title: Code — knob_playground
 ---
+
+# knob_playground.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -86,5 +88,4 @@ class KnobPlayground(EuroPiScript):
 
 if __name__ == "__main__":
     KnobPlayground().main()
-
 ```

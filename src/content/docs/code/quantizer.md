@@ -1,6 +1,8 @@
 ---
-title: quantizer.py
+title: Code — quantizer
 ---
+
+# quantizer.py
 
 ```python
 # Copyright 2023 Allen Synthesis
@@ -528,5 +530,4 @@ class QuantizerScript(EuroPiScript):
 
 if __name__ == "__main__":
     QuantizerScript().main()
-
 ```

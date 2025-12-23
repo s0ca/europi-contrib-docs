@@ -1,6 +1,8 @@
 ---
-title: polyrhythmic_sequencer.py
+title: Code — polyrhythmic_sequencer
 ---
+
+# polyrhythmic_sequencer.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -369,5 +371,4 @@ class PolyrhythmSeq(EuroPiScript):
 if __name__ == '__main__':
     script = PolyrhythmSeq()
     script.main()
-
 ```

@@ -1,6 +1,8 @@
 ---
-title: settings_menu_example.py
+title: Code — settings_menu_example
 ---
+
+# settings_menu_example.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -203,5 +205,4 @@ class SettingsMenuExample(EuroPiScript):
 
 if __name__ == "__main__":
     SettingsMenuExample().main()
-
 ```

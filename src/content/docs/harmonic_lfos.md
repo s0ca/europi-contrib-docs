@@ -1,5 +1,5 @@
 ---
-title: Harmonically Related LFOs
+title: Harmonic Lfos
 ---
 
 # Harmonically Related LFOs

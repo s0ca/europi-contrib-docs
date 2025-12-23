@@ -1,6 +1,8 @@
 ---
-title: smooth_random_voltages.py
+title: Code — smooth_random_voltages
 ---
+
+# smooth_random_voltages.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -232,5 +234,4 @@ class SmoothRandomVoltages(EuroPiScript):
 if __name__ == "__main__":
     srv = SmoothRandomVoltages()
     srv.main()
-
 ```

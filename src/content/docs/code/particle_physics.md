@@ -1,6 +1,8 @@
 ---
-title: particle_physics.py
+title: Code — particle_physics
 ---
+
+# particle_physics.py
 
 ```python
 #!/usr/bin/env python3
@@ -254,5 +256,4 @@ class ParticlePhysics(EuroPiScript):
 
 if __name__ == "__main__":
     ParticlePhysics().main()
-
 ```

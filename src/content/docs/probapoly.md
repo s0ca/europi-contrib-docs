@@ -1,5 +1,5 @@
 ---
-title: Probapoly - A polyrhythmic gate generator with probabilty
+title: Probapoly
 ---
 
 # Probapoly - A polyrhythmic gate generator with probabilty

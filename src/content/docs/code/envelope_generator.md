@@ -1,6 +1,8 @@
 ---
-title: envelope_generator.py
+title: Code — envelope_generator
 ---
+
+# envelope_generator.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -288,5 +290,4 @@ class EnvelopeGenerator(EuroPiScript):
 
 if __name__ == "__main__":
     EnvelopeGenerator().main()
-
 ```

@@ -1,6 +1,8 @@
 ---
-title: consequencer.py
+title: Code — consequencer
 ---
+
+# consequencer.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -1379,5 +1381,4 @@ if __name__ == "__main__":
     turn_off_all_cvs()
     dm = Consequencer()
     dm.main()
-
 ```

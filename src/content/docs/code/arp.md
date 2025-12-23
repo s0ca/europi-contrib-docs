@@ -1,6 +1,8 @@
 ---
-title: arp.py
+title: Code — arp
 ---
+
+# arp.py
 
 ```python
 #!/usr/bin/env python3
@@ -266,5 +268,4 @@ class Arpeggiator(EuroPiScript):
 
 if __name__ == "__main__":
     Arpeggiator().main()
-
 ```

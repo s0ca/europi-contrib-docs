@@ -1,6 +1,8 @@
 ---
-title: dscn2.py
+title: Code — dscn2
 ---
+
+# dscn2.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -165,5 +167,4 @@ class Dcsn2(EuroPiScript):
 
 if __name__ == "__main__":
     Dcsn2().main()
-
 ```

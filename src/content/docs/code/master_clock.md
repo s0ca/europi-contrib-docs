@@ -1,6 +1,8 @@
 ---
-title: master_clock.py
+title: Code — master_clock
 ---
+
+# master_clock.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -418,5 +420,4 @@ class MasterClock(EuroPiScript):
 if __name__ == '__main__':
     m = MasterClock()
     m.main()
-
 ```

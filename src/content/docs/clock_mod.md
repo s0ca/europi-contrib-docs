@@ -1,5 +1,5 @@
 ---
-title: Clock Modifier
+title: Clock Mod
 ---
 
 # Clock Modifier

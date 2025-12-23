@@ -1,6 +1,8 @@
 ---
-title: volts.py
+title: Code — volts
 ---
+
+# volts.py
 
 ```python
 #!/usr/bin/env python3
@@ -97,5 +99,4 @@ class OffsetVoltages(EuroPiScript):
 
         while True:
             pass
-
 ```

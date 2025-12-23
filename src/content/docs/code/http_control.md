@@ -1,6 +1,8 @@
 ---
-title: http_control.py
+title: Code — http_control
 ---
+
+# http_control.py
 
 ```python
 # Copyright 2025 Allen Synthesis
@@ -242,5 +244,4 @@ Connected""")
 
 if __name__ == "__main__":
     HttpControl().main()
-
 ```

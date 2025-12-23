@@ -1,6 +1,8 @@
 ---
-title: hello_world.py
+title: Code — hello_world
 ---
+
+# hello_world.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -64,5 +66,4 @@ class HelloWorld(EuroPiScript):
 
 if __name__ == "__main__":
     HelloWorld().main()
-
 ```

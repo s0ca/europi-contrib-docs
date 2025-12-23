@@ -1,6 +1,8 @@
 ---
-title: traffic.py
+title: Code — traffic
 ---
+
+# traffic.py
 
 ```python
 #!/usr/bin/env python3
@@ -168,5 +170,4 @@ class Traffic(EuroPiScript):
 
 if __name__ == "__main__":
     Traffic().main()
-
 ```

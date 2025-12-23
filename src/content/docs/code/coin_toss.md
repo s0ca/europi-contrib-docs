@@ -1,6 +1,8 @@
 ---
-title: coin_toss.py
+title: Code — coin_toss
 ---
+
+# coin_toss.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -139,5 +141,4 @@ if __name__ == '__main__':
     # Reset module display state.
     coin_toss = CoinToss()
     coin_toss.main()
-
 ```

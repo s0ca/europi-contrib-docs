@@ -1,6 +1,8 @@
 ---
-title: ocean_surge.py
+title: Code — ocean_surge
 ---
+
+# ocean_surge.py
 
 ```python
 #!/usr/bin/env python3
@@ -326,5 +328,4 @@ class OceanSurge(EuroPiScript):
 
 if __name__ == "__main__":
     OceanSurge().main()
-
 ```

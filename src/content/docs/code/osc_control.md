@@ -1,6 +1,8 @@
 ---
-title: osc_control.py
+title: Code — osc_control
 ---
+
+# osc_control.py
 
 ```python
 # Copyright 2025 Allen Synthesis
@@ -218,5 +220,4 @@ waiting...""")
 
 if __name__ == "__main__":
     OscControl().main()
-
 ```

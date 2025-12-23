@@ -1,5 +1,5 @@
 ---
-title: Piconacci - Fibonacci based triggers
+title: Piconacci
 ---
 
 # Piconacci - Fibonacci based triggers

@@ -1,6 +1,8 @@
 ---
-title: gate_phaser.py
+title: Code — gate_phaser
 ---
+
+# gate_phaser.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -226,5 +228,4 @@ class GatePhaser(EuroPiScript):
 
 if __name__ == "__main__":
     GatePhaser().main()
-
 ```

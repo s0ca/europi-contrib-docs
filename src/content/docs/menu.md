@@ -26,7 +26,7 @@ In a program that was launched from the menu:
 An example 'hello world' script is shown here and the requirement details are discussed below.
 
 ``hello_world.py``
-```Python
+```python
 from europi import oled
 from europi_script import EuroPiScript  # 1
 
@@ -53,7 +53,7 @@ if __name__ == "__main__":  #4
 ## Menu Inclusion
 
 Once you have a script that conforms to the above requirements, you can add it to the list of
-scripts that are included in the menu. This list is in [menu.py](code/menu) in the
+scripts that are included in the menu. This list is in [menu.py](/software/contrib/menu.py) in the
 contrib folder. You will need to add two lines, one to import your class and one to add the class to
 the list. Use the existing scripts as examples.
 
@@ -143,5 +143,5 @@ class HelloWorld(EuroPiScript):
 ## Support testing
 
 For a simple, but complete example of a testable ``EuroPiScript`` see
-[hello_world.py](code/hello_world) and its test
+[hello_world.py](/software/contrib/hello_world.py) and its test
 [test_hello_world.py](/software/tests/contrib/test_hello_world.py).

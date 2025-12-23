@@ -1,6 +1,8 @@
 ---
-title: pet_rock.py
+title: Code — pet_rock
 ---
+
+# pet_rock.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -1095,5 +1097,4 @@ class PetRock(EuroPiScript):
 
 if __name__ == "__main__":
     PetRock().main()
-
 ```

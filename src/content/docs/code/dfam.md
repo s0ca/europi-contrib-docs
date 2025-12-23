@@ -1,6 +1,8 @@
 ---
-title: dfam.py
+title: Code — dfam
 ---
+
+# dfam.py
 
 ```python
 # Copyright 2025 Allen Synthesis
@@ -174,5 +176,4 @@ class DfamController(EuroPiScript):
 
 if __name__ == "__main__":
     DfamController().main()
-
 ```

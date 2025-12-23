@@ -1,6 +1,8 @@
 ---
-title: cvecorder.py
+title: Code — cvecorder
 ---
+
+# cvecorder.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -492,5 +494,4 @@ class CVecorder(EuroPiScript):
 if __name__ == '__main__':
     dm = CVecorder()
     dm.main()
-
 ```

@@ -1,11 +1,26 @@
 ---
-title: Contributions
+title: EuroPi Contrib Docs
+slug: /
 ---
 
-# Contributions
+Welcome 👋
 
-Please see the [contributing guide](/contributing.md) for details on how to contribute a script to this
-directory, specifically [the section on contrib scripts](/contributing.md#contrib-scripts).
+This site is a clean, searchable view of the documentation found in the official EuroPi repository under:
+`software/contrib`
+
+## What this site is
+- A user-friendly way to browse and read contrib script docs
+- Content synced from the official EuroPi repository
+- Updated regularly as new scripts/docs are merged upstream
+
+## Contributing
+Nothing changes 🙂
+Please keep contributing to the official EuroPi repo as usual:
+
+- [Contributing guide](https://github.com/Allen-Synthesis/EuroPi/blob/main/contributing.md)
+- [Contrib scripts section](https://github.com/Allen-Synthesis/EuroPi/blob/main/contributing.md#contrib-scripts)
+
+---
 
 # List of packaged scripts
 
@@ -104,7 +119,7 @@ Requires installing and configuring a realtime clock module, connected to EuroPi
 <i>Author: [chrisib](https://github.com/chrisib)</i>
 <br><i>Labels: sequencer, gate, cv, random, realtime clock</i>
 
-### DCSN-2 \[ [documentation](dscn2) | [script](/software/contrib/dcsn2.md) \]
+### DCSN-2 \[ [documentation](dscn2) | [script](code/dscn2) \]
 
 A loopable random gate sequencer based on a binary tree.  Inspired by the Robaux DCSN3
 

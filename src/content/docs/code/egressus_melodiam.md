@@ -1,6 +1,8 @@
 ---
-title: egressus_melodiam.py
+title: Code — egressus_melodiam
 ---
+
+# egressus_melodiam.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -989,5 +991,4 @@ class EgressusMelodiam(EuroPiScript):
 if __name__ == "__main__":
     dm = EgressusMelodiam()
     dm.main()
-
 ```

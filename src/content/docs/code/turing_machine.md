@@ -1,6 +1,8 @@
 ---
-title: turing_machine.py
+title: Code — turing_machine
 ---
+
+# turing_machine.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -356,5 +358,4 @@ class EuroPiTuringMachine(EuroPiScript):
 
 if __name__ == "__main__":
     EuroPiTuringMachine(DEFAULT_BIT_COUNT, europi.MAX_OUTPUT_VOLTAGE).main()
-
 ```

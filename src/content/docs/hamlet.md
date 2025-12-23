@@ -9,7 +9,7 @@ _Sequencing Drums and Two Voices_
 **TB or not TB?**
 
 Hamlet is a drum and voice sequencer based on [Nik Ansell](https://github.com/gamecat69)'s
-[Consequencer](consequencer), which is itself inspired by
+[Consequencer](./consequencer.md), which is itself inspired by
 [Mutable Instruments' Grids](https://pichenettes.github.io/mutable-instruments-documentation/modules/grids/).
 It is also influenced by O_C's TB3PO. Hamlet adds two tracks of CV and gates to the Consequencer,
 sacrificing one drum track to do so.

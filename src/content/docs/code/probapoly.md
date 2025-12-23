@@ -1,6 +1,8 @@
 ---
-title: probapoly.py
+title: Code — probapoly
 ---
+
+# probapoly.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -251,5 +253,4 @@ class Probapoly(EuroPiScript):
 if __name__ == '__main__':
     dm = Probapoly()
     dm.main()
-
 ```

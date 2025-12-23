@@ -1,6 +1,8 @@
 ---
-title: radio_scanner.py
+title: Code — radio_scanner
 ---
+
+# radio_scanner.py
 
 ```python
 # Copyright 2024 Allen Synthesis
@@ -121,5 +123,4 @@ class RadioScanner(EuroPiScript):
 
 if __name__ == "__main__":
     RadioScanner().main()
-
 ```

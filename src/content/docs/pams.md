@@ -1,5 +1,5 @@
 ---
-title: Pam's "EuroPi" Workout
+title: Pams
 ---
 
 # Pam's "EuroPi" Workout

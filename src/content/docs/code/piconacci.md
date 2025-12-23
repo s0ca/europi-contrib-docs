@@ -1,6 +1,8 @@
 ---
-title: piconacci.py
+title: Code — piconacci
 ---
+
+# piconacci.py
 
 ```python
 # Copyright 2022 Allen Synthesis
@@ -151,5 +153,4 @@ class Piconacci(EuroPiScript):
 if __name__ == "__main__":
     pc = Piconacci()
     pc.main()
-
 ```
