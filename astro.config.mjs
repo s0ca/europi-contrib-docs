@@ -2,10 +2,12 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+  site: 'https://s0ca.github.io',
+  base: '/europi-contrib-docs',
   integrations: [
     starlight({
-      title: 'EuroPi Contrib Documentation',
-      description: 'Friendly docs generated from Markdown.',
+      title: 'EuroPi Contrib Docs',
+      description: 'Documentation for community EuroPi scripts.',
       defaultLocale: 'en',
       components: {
         Footer: './src/components/StickyFooter.astro',
