@@ -1,0 +1,48 @@
+:root {
+  --sl-content-width: 72rem;
+  --sl-text-5xl: 2.2rem;
+  --sl-text-4xl: 1.85rem;
+}
+
+.sl-markdown-content {
+  line-height: 1.7;
+}
+
+.sl-markdown-content pre {
+  border-radius: 0.9rem;
+}
+
+.sl-markdown-content code {
+  font-size: 0.95em;
+}
+/* Wider right sidebar (TOC) + better wrapping */
+@media (min-width: 72rem) {
+  /* Augmente la largeur de la colonne de droite */
+  .right-sidebar {
+    width: 22rem;      /* essaie 22rem, monte à 24rem si besoin */
+    flex: 0 0 22rem;
+  }
+
+  /* Le contenu principal laisse la place à droite */
+  .main-pane {
+    max-width: calc(100% - 22rem);
+  }
+}
+
+/* Autorise les titres du TOC à passer à la ligne au lieu d'être tronqués */
+.right-sidebar a {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+/* (Optionnel) un peu moins “serré” */
+.right-sidebar nav {
+  padding-right: 0.25rem;
+}
+/* Leave space for sticky footer */
+.main-pane {
+  padding-bottom: 2.5rem;
+}
