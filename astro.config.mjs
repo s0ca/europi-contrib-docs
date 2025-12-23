@@ -28,7 +28,11 @@ export default defineConfig({
                   {
                         "label": "Overview",
                         "link": "/"
-                  }
+                  },
+                  { 
+                        "label": 'About',
+                         "link": '/about' 
+                  },
             ]
       },
       {
